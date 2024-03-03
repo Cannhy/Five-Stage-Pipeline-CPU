@@ -1,0 +1,14 @@
+MO W_Reg NULL ../p5_v/W_Reg.v vlg2C/_w___reg.bin 1670324938
+MO CU NULL ../p5_v/CU.v vlg24/_c_u.bin 1670324938
+MO D_NPC NULL ../p5_v/D_NPC.v vlg58/_d___n_p_c.bin 1670324938
+MO M_DM NULL ../p5_v/M_DM.v vlg01/_m___d_m.bin 1670324938
+MO D_EXT NULL ../p5_v/D_EXT.v vlg30/_d___e_x_t.bin 1670324938
+MO D_Reg NULL ../p5_v/D_Reg.v vlg49/_d___reg.bin 1670324938
+MO M_Reg NULL ../p5_v/M_Reg.v vlg42/_m___reg.bin 1670324938
+MO mips NULL ../p5_v/p5_mips.v vlg1D/mips.bin 1670324938
+MO IFU NULL ../p5_v/p5_IFU.v vlg54/_i_f_u.bin 1670324938
+MO E_Reg NULL ../p5_v/E_Reg.v vlg3A/_e___reg.bin 1670324938
+MO E_ALU NULL ../p5_v/E_ALU.v vlg02/_e___a_l_u.bin 1670324938
+MO D_CMP NULL ../p5_v/D_CMP.v vlg43/_d___c_m_p.bin 1670324938
+MO Stall NULL ../p5_v/Stall.v vlg48/_stall.bin 1670324938
+MO D_RF NULL ../p5_v/D_RF.v vlg5B/_d___r_f.bin 1670324938

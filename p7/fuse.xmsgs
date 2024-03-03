@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/p7/../p7_v/p7_mips.v" Line 59: Port <arg fmt="%s" index="1">Int_response</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/p7/../p7_v/p7_CPU.v" Line 184: Port <arg fmt="%s" index="1">RfWr</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/p7/../p7_v/p7_CPU.v" Line 212: Port <arg fmt="%s" index="1">D_Ext_lui</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/p7/../p7_v/p7_CPU.v" Line 234: Port <arg fmt="%s" index="1">hi</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/p7/../p7_v/p7_CPU.v" Line 247: Port <arg fmt="%s" index="1">ExtOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/p7/../p7_v/p7_CPU.v" Line 288: Port <arg fmt="%s" index="1">E_cmp_result</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/p7/../p7_v/p7_CPU.v" Line 310: Port <arg fmt="%s" index="1">ExtOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/p7/../p7_v/p7_CPU.v" Line 404: Port <arg fmt="%s" index="1">ExtOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/p7/../p7_v/p7_Stall.v" Line 37: Port <arg fmt="%s" index="1">RfWr</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/p7/../p7_v/p7_Stall.v" Line 47: Port <arg fmt="%s" index="1">ExtOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/p7/../p7_v/p7_Stall.v" Line 55: Port <arg fmt="%s" index="1">ExtOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="Simulator" num="0" delta="unknown" >Unable to copy libPortabilityNOSH.dll to the simulation executable directory: <arg fmt="%s" index="1">boost::filesystem::copy_file: ￏﾵￍﾳￕￒﾲﾻﾵﾽￖﾸﾶﾨﾵￄￂﾷﾾﾶﾡﾣ, &quot;isim\mips_txt_isim_beh.exe.sim\libPortability.dll&quot;</arg>.
+</msg>
+
+</messages>
+

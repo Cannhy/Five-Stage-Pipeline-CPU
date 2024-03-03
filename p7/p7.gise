@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="p7.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="BE_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CP0.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="CP0.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="CP0.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CP0_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CP0_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CPU.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="CPU.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="CPU.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CPU_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CPU_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CU.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="CU.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="CU.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CU_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="D_NPC.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="D_NPC.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="D_NPC.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="D_Reg_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="E_Reg.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="E_Reg.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="E_Reg.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="IFU.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="IFU.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="IFU.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="IFU_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="IFU_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MDU_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Stall.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Stall.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Stall.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Stall_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TC_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="W_Reg_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="W_Reg_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mips.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="mips.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="mips.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="mips_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mips_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mips_txt_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="mips_txt_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="mips_txt_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mips_txt_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="p7_Bridge.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="p7_Bridge.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="p7_Bridge.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="p7_Bridge_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="p7_test_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1671350094" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1671350094">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1671536850" xil_pn:in_ck="8001946968739409724" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1671536850">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="E:/p7_v/P7_standard_timer_2019.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_BE.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_Bridge.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_CP0.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_CPU.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_CU .v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_DE.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_D_CMP.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_D_EXT.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_D_NPC.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_D_RF.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_D_Reg.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_E_ALU.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_E_Reg.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_IFU.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_MDU.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_M_Reg.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_Stall.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_W_Reg.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_mips.v"/>
+      <outfile xil_pn:name="p7_tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1671350094" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-4373869695554850289" xil_pn:start_ts="1671350094">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1671350094" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-3568741513279794379" xil_pn:start_ts="1671350094">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1671350094" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-6825801120149235046" xil_pn:start_ts="1671350094">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1671536852" xil_pn:in_ck="8001946968739409724" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1671536852">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="E:/p7_v/P7_standard_timer_2019.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_BE.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_Bridge.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_CP0.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_CPU.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_CU .v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_DE.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_D_CMP.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_D_EXT.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_D_NPC.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_D_RF.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_D_Reg.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_E_ALU.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_E_Reg.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_IFU.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_MDU.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_M_Reg.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_Stall.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_W_Reg.v"/>
+      <outfile xil_pn:name="E:/p7_v/p7_mips.v"/>
+      <outfile xil_pn:name="p7_tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1671536857" xil_pn:in_ck="8001946968739409724" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="2681722192551549307" xil_pn:start_ts="1671536852">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="mips_txt_beh.prj"/>
+      <outfile xil_pn:name="mips_txt_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1671536857" xil_pn:in_ck="-8227503315400502578" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="5594349138297909886" xil_pn:start_ts="1671536857">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="mips_txt_isim_beh.wdb"/>
+    </transform>
+  </transforms>
+
+</generated_project>

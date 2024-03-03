@@ -1,0 +1,5 @@
+set -tmpdir "E:/p7/xst/projnav.tmp"
+set -xsthdpdir "E:/p7/xst"
+elaborate
+-ifn D_NPC.prj
+-ifmt mixed

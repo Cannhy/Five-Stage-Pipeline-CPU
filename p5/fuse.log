@@ -1,0 +1,55 @@
+Running: E:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o E:/p5/p5_tb_isim_beh.exe -prj E:/p5/p5_tb_beh.prj work.p5_tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/p5/../p5_v/CU.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/W_Reg.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/Stall.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/p5_IFU.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/M_Reg.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/M_DM.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/E_Reg.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/E_ALU.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/D_RF.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/D_Reg.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/D_NPC.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/D_EXT.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/D_CMP.v" into library work
+Analyzing Verilog file "E:/p5/../p5_v/p5_mips.v" into library work
+Analyzing Verilog file "E:/p5/../id_fsm/p5_tb.v" into library work
+Analyzing Verilog file "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "E:/p5/../p5_v/p5_mips.v" Line 120: Port jr is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p5/../p5_v/p5_mips.v" Line 136: Port jump is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p5/../p5_v/p5_mips.v" Line 152: Port D_Ext_lui is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p5/../p5_v/p5_mips.v" Line 172: Port dm is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p5/../p5_v/p5_mips.v" Line 221: Port ExtOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p5/../p5_v/p5_mips.v" Line 253: Port M_A3 is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p5/../p5_v/p5_mips.v" Line 272: Port ExtOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p5/../p5_v/Stall.v" Line 37: Port jump is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p5/../p5_v/Stall.v" Line 43: Port jump is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p5/../p5_v/Stall.v" Line 51: Port jump is not connected to this instance
+Completed static elaboration
+Compiling module IFU
+Compiling module D_Reg
+Compiling module D_RF
+Compiling module D_EXT
+Compiling module D_NPC
+Compiling module D_CMP
+Compiling module CU
+Compiling module E_Reg
+Compiling module E_ALU
+Compiling module M_Reg
+Compiling module M_DM
+Compiling module W_Reg
+Compiling module Stall
+Compiling module mips
+Compiling module p5_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\p5_tb_isim_beh.exe.sim\libPortability.dll".
+Compiled 16 Verilog Units
+Built simulation executable E:/p5/p5_tb_isim_beh.exe
+Fuse Memory Usage: 30220 KB
+Fuse CPU Usage: 655 ms

@@ -1,0 +1,62 @@
+Running: E:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o E:/p6_execrise/mips_txt_isim_beh.exe -prj E:/p6_execrise/mips_txt_beh.prj work.mips_txt work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_CU.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_W_Reg.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_Stall.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_M_Reg.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_MDU.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_IFU.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_E_Reg.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_E_ALU.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_D_RF.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_D_Reg.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_D_NPC.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_D_EXT.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_D_CMP.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_DE.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_BE.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/mips.v" into library work
+Analyzing Verilog file "E:/p6_execrise/../p6_v/p6_tb.v" into library work
+Analyzing Verilog file "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "E:/p6_execrise/../p6_v/mips.v" Line 138: Port branch is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p6_execrise/../p6_v/mips.v" Line 154: Port CMP_result is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p6_execrise/../p6_v/mips.v" Line 173: Port D_A3 is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p6_execrise/../p6_v/mips.v" Line 191: Port hi is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p6_execrise/../p6_v/mips.v" Line 203: Port ExtOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p6_execrise/../p6_v/mips.v" Line 240: Port E_A3 is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p6_execrise/../p6_v/mips.v" Line 257: Port ExtOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p6_execrise/../p6_v/mips.v" Line 310: Port M_A3 is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p6_execrise/../p6_v/mips.v" Line 331: Port ExtOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p6_execrise/../p6_v/p6_Stall.v" Line 41: Port CMP_result is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p6_execrise/../p6_v/p6_Stall.v" Line 52: Port CMP_result is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/p6_execrise/../p6_v/p6_Stall.v" Line 60: Port CMP_result is not connected to this instance
+Completed static elaboration
+Compiling module IFU
+Compiling module D_Reg
+Compiling module D_RF
+Compiling module D_EXT
+Compiling module D_NPC
+Compiling module D_CMP
+Compiling module CU
+Compiling module E_Reg
+Compiling module MDU
+Compiling module E_ALU
+Compiling module M_Reg
+Compiling module BE
+Compiling module DE
+Compiling module W_Reg
+Compiling module Stall
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\mips_txt_isim_beh.exe.sim\libPortability.dll".
+Compiled 18 Verilog Units
+Built simulation executable E:/p6_execrise/mips_txt_isim_beh.exe
+Fuse Memory Usage: 32128 KB
+Fuse CPU Usage: 562 ms

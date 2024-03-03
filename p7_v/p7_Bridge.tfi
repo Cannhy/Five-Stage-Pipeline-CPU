@@ -1,0 +1,26 @@
+
+
+
+// Instantiate the module
+p7_Bridge instance_name (
+    .Pr_addr(Pr_addr), 
+    .Pr_WD(Pr_WD), 
+    .Pr_WE(Pr_WE), 
+    .Pr_byteen(Pr_byteen), 
+    .m_data_rdata(m_data_rdata), 
+    .TC0_out(TC0_out), 
+    .TC1_out(TC1_out), 
+    .Int_respond(Int_respond), 
+    .Pr_rdata(Pr_rdata), 
+    .m_data_byteen(m_data_byteen), 
+    .m_data_addr(m_data_addr), 
+    .m_data_wdata(m_data_wdata), 
+    .TC0_WE(TC0_WE), 
+    .TC1_WE(TC1_WE), 
+    .TC0_addr(TC0_addr), 
+    .TC0_WD(TC0_WD), 
+    .TC1_addr(TC1_addr), 
+    .TC1_WD(TC1_WD)
+    );
+
+

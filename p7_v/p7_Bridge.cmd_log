@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj id_fsm -o E:/id_fsm/p7_Bridge.tfi -lib work E:/id_fsm//p7_Bridge.v -module p7_Bridge -template E:/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

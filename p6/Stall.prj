@@ -1,0 +1,2 @@
+verilog work "../p6_v/p6_CU.v"
+verilog work "../p6_v/p6_Stall.v"

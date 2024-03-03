@@ -1,0 +1,75 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to E:/p7/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.33 secs
+ 
+--> Parameter xsthdpdir set to E:/p7/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.34 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "../p7_v/p7_CU .v" in library work
+Compiling verilog file "../p7_v/p7_W_Reg.v" in library work
+Module <CU> compiled
+Compiling verilog file "../p7_v/p7_Stall.v" in library work
+Module <W_Reg> compiled
+Compiling verilog file "../p7_v/p7_M_Reg.v" in library work
+Module <Stall> compiled
+Compiling verilog file "../p7_v/p7_MDU.v" in library work
+Module <M_Reg> compiled
+Compiling verilog file "../p7_v/p7_IFU.v" in library work
+Module <MDU> compiled
+Compiling verilog file "../p7_v/p7_E_Reg.v" in library work
+Module <IFU> compiled
+Compiling verilog file "../p7_v/p7_E_ALU.v" in library work
+Module <E_Reg> compiled
+Compiling verilog file "../p7_v/p7_D_RF.v" in library work
+Module <E_ALU> compiled
+Compiling verilog file "../p7_v/p7_D_Reg.v" in library work
+Module <D_RF> compiled
+Compiling verilog file "../p7_v/p7_D_NPC.v" in library work
+Module <D_Reg> compiled
+Compiling verilog file "../p7_v/p7_D_EXT.v" in library work
+Module <D_NPC> compiled
+Compiling verilog file "../p7_v/p7_D_CMP.v" in library work
+Module <D_EXT> compiled
+Compiling verilog file "../p7_v/p7_DE.v" in library work
+Module <D_CMP> compiled
+Compiling verilog file "../p7_v/p7_CP0.v" in library work
+Module <DE> compiled
+Compiling verilog file "../p7_v/p7_BE.v" in library work
+Module <CP0> compiled
+Compiling verilog file "../p7_v/P7_standard_timer_2019.v" in library work
+Module <BE> compiled
+Compiling verilog file "../p7_v/p7_CPU.v" in library work
+Module <TC> compiled
+Compiling verilog file "../p7_v/p7_Bridge.v" in library work
+Module <CPU> compiled
+Compiling verilog file "../p7_v/p7_mips.v" in library work
+Module <p7_Bridge> compiled
+Module <mips> compiled
+No errors in compilation
+Analysis of file <"mips.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.47 secs
+ 
+--> 
+
+Total memory usage is 4477376 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

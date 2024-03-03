@@ -1,0 +1,16 @@
+MO W_Reg NULL ../p6_v/p6_W_Reg.v vlg2C/_w___reg.bin 1670843918
+MO BE NULL ../p6_v/p6_BE.v vlg0F/_b_e.bin 1670843918
+MO DE NULL ../p6_v/p6_DE.v vlg19/_d_e.bin 1670843918
+MO CU NULL ../p6_v/p6_CU.v vlg24/_c_u.bin 1670928974
+MO MDU NULL ../p6_v/p6_MDU.v vlg2E/_m_d_u.bin 1670930758
+MO D_NPC NULL ../p6_v/p6_D_NPC.v vlg58/_d___n_p_c.bin 1670843918
+MO D_EXT NULL ../p6_v/p6_D_EXT.v vlg30/_d___e_x_t.bin 1670843918
+MO D_Reg NULL ../p6_v/p6_D_Reg.v vlg49/_d___reg.bin 1670843918
+MO M_Reg NULL ../p6_v/p6_M_Reg.v vlg42/_m___reg.bin 1670843918
+MO mips NULL ../p6_v/mips.v vlg1D/mips.bin 1670843918
+MO IFU NULL ../p6_v/p6_IFU.v vlg54/_i_f_u.bin 1670843918
+MO E_Reg NULL ../p6_v/p6_E_Reg.v vlg3A/_e___reg.bin 1670843918
+MO E_ALU NULL ../p6_v/p6_E_ALU.v vlg02/_e___a_l_u.bin 1670843918
+MO D_CMP NULL ../p6_v/p6_D_CMP.v vlg43/_d___c_m_p.bin 1670843918
+MO Stall NULL ../p6_v/p6_Stall.v vlg48/_stall.bin 1670843918
+MO D_RF NULL ../p6_v/p6_D_RF.v vlg5B/_d___r_f.bin 1670843918

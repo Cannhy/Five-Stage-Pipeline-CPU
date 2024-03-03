@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "E:/p5/p5_tb_isim_beh.exe" -prj "E:/p5/p5_tb_beh.prj" "work.p5_tb" "work.glbl" 
